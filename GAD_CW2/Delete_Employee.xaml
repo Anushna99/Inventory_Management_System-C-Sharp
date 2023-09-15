@@ -1,0 +1,19 @@
+﻿<Page x:Class="GAD_CW2.Delete_Employee"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GAD_CW2"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Delete_Employee" Background="#FF2D9457">
+
+    <Grid Loaded="Grid_Loaded">
+        <Label Content="Delete Employee" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="Bold"/>
+        <Label Content="Emp No." HorizontalAlignment="Left" Margin="181,109,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <TextBox x:Name="txt_eno" IsReadOnly="True" HorizontalAlignment="Left" Height="31" Margin="345,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="558,109,0,0" VerticalAlignment="Top" Width="119" FontSize="24" FontWeight="Bold" Background="#FFE81515" Click="Button_Click"/>
+        <DataGrid x:Name="datagrid" HorizontalAlignment="Left" Height="198" Margin="0,208,-161,0" VerticalAlignment="Top" Width="961" SelectionChanged="datagrid_SelectionChanged"/>
+
+    </Grid>
+</Page>

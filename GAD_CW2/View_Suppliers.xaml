@@ -1,0 +1,19 @@
+﻿<Page x:Class="GAD_CW2.View_Suppliers"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GAD_CW2"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="View_Suppliers" Background="#FF96E8ED">
+
+    <Grid Loaded="Grid_Loaded">
+        <Label Content="View/Remove Supplier" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="36" FontWeight="Bold"/>
+        <DataGrid x:Name="datagrid" HorizontalAlignment="Left" Height="483" Margin="0,100,0,-133.4" VerticalAlignment="Top" Width="569" SelectionChanged="datagrid_SelectionChanged"/>
+        <Label Content="Sno" HorizontalAlignment="Left" Margin="368,45,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24"/>
+        <TextBox x:Name="txt_sno" IsReadOnly="True" HorizontalAlignment="Left" Height="42" Margin="468,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="18"/>
+        <Button x:Name="btn_remove" Content="Remove" HorizontalAlignment="Left" Margin="759,45,-53,0" VerticalAlignment="Top" Width="94" FontSize="18" FontWeight="Bold" Height="42" Background="#FFF96464" Click="btn_remove_Click"/>
+
+    </Grid>
+</Page>

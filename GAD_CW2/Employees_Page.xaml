@@ -1,0 +1,23 @@
+﻿<Page x:Class="GAD_CW2.Employees_Page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      xmlns:local="clr-namespace:GAD_CW2"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Employees_Page">
+
+    <Grid>
+        <Label Content="Employees" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="36" FontWeight="Bold"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Height="100" Margin="42,67,0,0" VerticalAlignment="Top" Width="689">
+            <mah:Tile x:Name="tile_add" Content="Add Employee" Click="tile_add_Click" Height="Auto" Margin="3,3,3,0" FontSize="20" FontWeight="Bold" FontFamily="MV Boli" Width="147" Background="#FF7D1212"/>
+            <mah:Tile x:Name="tile_update" Content="Update Employee" Height="Auto" Margin="3,3,3,0" FontWeight="Bold" FontSize="20" Width="180" FontFamily="MV Boli" Click="tile_update_Click" Background="#FFF41BEE"/>
+            <mah:Tile x:Name="tile_view" Content="View Employee" Click="tile_view_Click" Height="Auto" Margin="3,3,3,0" Width="166" FontFamily="MV Boli" FontSize="20" FontWeight="Bold" Background="#FF1355EE"/>
+            <mah:Tile x:Name="tile_delete" Content="Delete Employee" Height="Auto" Margin="3,3,3,0" Click="tile_delete_Click" Width="169" FontFamily="MV Boli" FontWeight="Bold" FontSize="20" Background="#FF1B6B0F"/>
+        </StackPanel>
+        <Frame x:Name="pages" Margin="0,167,0,-123.4"></Frame>
+
+    </Grid>
+</Page>

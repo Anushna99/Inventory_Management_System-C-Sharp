@@ -1,0 +1,355 @@
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\bin\Debug\GAD_CW2.exe.config
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\bin\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\bin\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\GAD_CW2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.cache
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.lref
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\GAD_CW2.g.resources
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\GAD_CW2.Properties.Resources.resources
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\GAD_CW2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\GAD_CW2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2\GAD_CW2\obj\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\bin\Debug\GAD_CW2.exe.config
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\bin\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\bin\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\GAD_CW2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.lref
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\GAD_CW2.g.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\GAD_CW2.Properties.Resources.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\GAD_CW2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\GAD_CW2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy\GAD_CW2\obj\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\bin\Debug\GAD_CW2.exe.config
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\bin\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\bin\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\GAD_CW2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.lref
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\GAD_CW2.g.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\GAD_CW2.Properties.Resources.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\GAD_CW2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\GAD_CW2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Home_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Home_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Dash_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Dash_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Products_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Products_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Suppliers_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Suppliers_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Orders_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Returns_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Orders_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy - Copy\GAD_CW2\obj\Debug\Returns_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\bin\Debug\GAD_CW2.exe.config
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\bin\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\bin\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\GAD_CW2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Dash_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Home_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Orders_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Products_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Returns_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Suppliers_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.lref
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Dash_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Home_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Orders_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Products_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Returns_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\Suppliers_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\GAD_CW2.g.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\GAD_CW2.Properties.Resources.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\GAD_CW2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\GAD_CW2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 3\GAD_CW2\obj\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\bin\Debug\GAD_CW2.exe.config
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\bin\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\bin\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\GAD_CW2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Dash_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Home_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Orders_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Products_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Returns_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Suppliers_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.lref
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Dash_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Home_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Orders_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Products_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Returns_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Suppliers_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\GAD_CW2.g.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\GAD_CW2.Properties.Resources.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\GAD_CW2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\GAD_CW2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Product_Add.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Product_Add.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Product_View.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4\GAD_CW2\obj\Debug\Product_View.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\GAD_CW2.exe.config
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\GAD_CW2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Dash_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Home_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Orders_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Products_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Suppliers_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.lref
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Dash_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Home_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Orders_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Products_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Suppliers_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\GAD_CW2.g.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\GAD_CW2.Properties.Resources.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\GAD_CW2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\GAD_CW2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Employees_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Employees_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\ControlzEx.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\MahApps.Metro.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\ControlzEx.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\ControlzEx.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\MahApps.Metro.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\MahApps.Metro.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\GAD_CW2.csproj.CopyComplete
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\App.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Add_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Add_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\View_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\View_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Delete_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Delete_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Update_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Update_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\LoginWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\LoginWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Add Supplier.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Remove_Supplier.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Update_Suppliers.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\View_Suppliers.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Add Supplier.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Remove_Supplier.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\Update_Suppliers.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 4 - Copy\GAD_CW2\obj\Debug\View_Suppliers.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\GAD_CW2.exe.config
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\ControlzEx.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\MahApps.Metro.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\ControlzEx.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\ControlzEx.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\MahApps.Metro.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\MahApps.Metro.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\GAD_CW2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Add Supplier.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Add_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Dash_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Delete_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Employees_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Home_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\LoginWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Orders_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Products_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Suppliers_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Update_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Update_Suppliers.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\View_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\View_Suppliers.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.lref
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\App.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Add Supplier.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Add_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Dash_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Delete_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Employees_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Home_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\LoginWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Orders_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Products_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Suppliers_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Update_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Update_Suppliers.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\View_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\View_Suppliers.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\GAD_CW2.g.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\GAD_CW2.Properties.Resources.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\GAD_CW2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\GAD_CW2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\GAD_CW2.csproj.CopyComplete
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Tyres.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Tyres.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Alloy.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Alloy.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Lights.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Lights.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Oil.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Oil.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Add_Product.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Remove_Products.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Update_Products.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Add_Product.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Remove_Products.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Update_Products.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Place_Order1.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Place_Order1.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Place_Order2.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Place_Order2.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\View_Orders.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\View_Orders.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Add_Supplies.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\Add_Supplies.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\LiveCharts.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\LiveCharts.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\LiveCharts.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\ManageUsers.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\ManageUsers.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\AddUser.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\AddUser.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\ViewUsers.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\ViewUsers.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\UpdateUser.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\UpdateUser.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\SuppliedProducts.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 6\GAD_CW2\obj\Debug\SuppliedProducts.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\GAD_CW2.exe.config
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\ControlzEx.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\LiveCharts.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\MahApps.Metro.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\ControlzEx.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\ControlzEx.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\LiveCharts.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\LiveCharts.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\MahApps.Metro.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\MahApps.Metro.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\GAD_CW2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Add Supplier.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\AddUser.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Add_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Add_Product.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Add_Supplies.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Alloy.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Dash_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Delete_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Employees_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Home_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Lights.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\LoginWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\ManageUsers.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Oil.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Orders_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Place_Order1.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Place_Order2.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Products_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\SuppliedProducts.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Suppliers_Page.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Tyres.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\UpdateUser.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Update_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Update_Products.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Update_Suppliers.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\ViewUsers.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\View_Employee.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\View_Orders.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\View_Suppliers.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\GAD_CW2_MarkupCompile.lref
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\App.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Add Supplier.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\AddUser.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Add_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Add_Product.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Add_Supplies.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Alloy.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Dash_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Delete_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Employees_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Home_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Lights.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\LoginWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\ManageUsers.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Oil.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Orders_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Place_Order1.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Place_Order2.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Products_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\SuppliedProducts.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Suppliers_Page.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Tyres.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\UpdateUser.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Update_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Update_Products.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Update_Suppliers.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\ViewUsers.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\View_Employee.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\View_Orders.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\View_Suppliers.baml
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\GAD_CW2.g.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\GAD_CW2.Properties.Resources.resources
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\GAD_CW2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\GAD_CW2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\GAD_CW2.csproj.CopyComplete
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\GAD_CW2.exe
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\GAD_CW2.pdb
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Themes.g.cs
+C:\Users\DELL\source\repos\GAD_CW2 - Copy 7\GAD_CW2\obj\Debug\Themes.baml

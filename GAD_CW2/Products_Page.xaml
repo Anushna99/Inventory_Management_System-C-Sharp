@@ -1,0 +1,28 @@
+﻿<Page x:Class="GAD_CW2.Products_Page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      xmlns:local="clr-namespace:GAD_CW2"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Products_Page">
+
+    <Grid x:Name="product_grid" >
+        <Label Content="Products" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="Bold"/>
+        <Grid HorizontalAlignment="Left" Height="241" Margin="0,73,0,0" VerticalAlignment="Top" Width="691">
+            <mah:Tile x:Name="tile_alloy" Margin="288,0,170,150" Width="Auto" Height="Auto" FontSize="20" Content="Alloy Wheels" Click="tile_alloy_Click"/>
+            <mah:Tile x:Name="tile_tyre" Margin="10,0,405,150" Width="Auto" Height="Auto" Content="Tyres" FontSize="20" Click="tile_tyre_Click" />
+            <mah:Tile x:Name="tile_oil" Margin="288,95,170,59" Height="Auto" Width="Auto" Content="Oil" FontSize="20" Click="tile_oil_Click"/>
+            <mah:Tile x:Name="tile_lights" Margin="10,95,405,59" Height="Auto" Width="Auto" Content="Lights" FontSize="20" Click="tile_lights_Click"/>
+            <mah:Tile x:Name="tile_add" Content="Add Products" Margin="373,187,10,0" Height="Auto" Width="Auto" Click="tile_add_Click" FontSize="18"/>
+            <mah:Tile x:Name="tile_update" Content="Update Products" Margin="10,187,323,0" Height="Auto" Width="Auto" Click="tile_update_Click" FontSize="18"/>
+            <mah:Tile x:Name="tile_add_supplies" Margin="523,0,10,150" Width="Auto" Height="Auto" Content="Add Supplies" FontSize="20" Click="tile_add_supplies_Click"/>
+            <mah:Tile x:Name="tile_supply_product" Content="Products Suppliers" Margin="523,95,10,59" Height="Auto" Width="Auto" FontSize="18" Click="tile_supply_product_Click"/>
+        </Grid>
+        <Frame x:Name="pages" Margin="0,319,0,-196.4"></Frame>
+
+
+    </Grid>
+</Page>
